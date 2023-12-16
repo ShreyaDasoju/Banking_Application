@@ -1,7 +1,5 @@
-#Assignment 1-Python (Banking Application)
-#Name: Shreya Dasoju
-#Student Number: 501166279
-'''
+#Python (Banking Application Simulator)
+...
 This program allows staff members to check their account balances (chequing and savings), transfer amounts between the two
 accounts, and e-transfer amounts to other people from either their chequing or savings accounts.
 The program will first validate if the login information entered, matches with that of the database, and then will let them
